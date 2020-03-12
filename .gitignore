@@ -310,6 +310,7 @@ __pycache__/
 !triplets/x86-windows.cmake
 !triplets/arm64-windows.cmake
 !triplets/x64-linux.cmake
+!triplets/x64-linux-dynamic.cmake
 !triplets/x64-osx.cmake
 #ignore custom triplets
 *.exe
